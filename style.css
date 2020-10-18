@@ -1,0 +1,124 @@
+.main-section{
+    background: url(./img/bg.png);
+    background-repeat: repeat;
+    padding: 50px 0;
+}
+.heading-name{
+    font-size: 64px;
+}
+.heading-name-2{
+    font-size: 55px;
+}
+
+.heading-name span{
+    color: #6C9CE4;
+}
+ul.work-list{
+    list-style-type: none;
+}
+ul.work-list li a i{
+    margin-right: 4px;
+}
+ul.work-list li a{
+    color: black;
+}
+ul.work-list li a:hover{
+    color: #6C9CE4;
+}
+
+.menu-item-bg{
+    background-color: #C0C0C2;
+    border-radius: 50%;
+    padding: 3vh 2vh;
+    border-top-right-radius: 3%;
+    margin-left: 10px;
+}
+.submit-button{
+    height: 50px;
+    width: 50px;
+    font-size: 14px;
+    font-weight: 500;
+}
+.menu-item-bg a{
+    color: white;
+}
+.menu-item-1-bg{
+    background-color: #6C9CE4;
+}
+.menu-item-bg:hover{
+    background-color: #6C9CE4;
+}
+a:hover{
+    text-decoration: none;
+}
+.input{
+    width: 85%;
+}
+.input-big{
+    height: 16vh;
+}
+.icon-box{
+    width: auto;
+    height: 10vh;
+}
+.icon{
+    height: 6vh;
+    width: 6vh;
+    border-radius: 50%;
+    background-color: #C0C0C2;
+}
+.icon i{
+    color: white;
+}
+.icon-text{
+    margin-left: 3px;
+    line-height: 16px;
+    height: 6vh;
+    font-size: 14px;
+}
+.technology-logo img{
+    height: auto;
+    width: auto;
+}
+.help-list{
+    line-height: 30px;
+}
+.skills-div .skill{
+    background-color: #6c9ce4;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.skills-div{
+    transform: rotate(270deg);
+    transform-origin: bottom center left;
+    padding-top: 200px;
+    padding: 7px 2px;
+    width: 38vh;
+    height: 38vh;
+    border-top: 1px solid #BDBDBE;
+    border-left: 1px solid #BDBDBE;
+}
+.skill:nth-child(odd){
+    background-color: #C0C0C2;
+}
+.skill:nth-child(1){
+    width: 36vh ;
+}
+.skill:nth-child(2){
+    width: 28vh ;
+}
+.skill:nth-child(3){
+    width: 25vh ;
+}
+.skill:nth-child(4){
+    width: 32vh ;
+}
+.skill:nth-child(5){
+    width: 21vh ;
+}
+.skill:nth-child(6){
+    width: 27vh ;
+}
+.skill:nth-child(7){
+    width: 20vh ;
+}
