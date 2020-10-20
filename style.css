@@ -4,10 +4,10 @@
     padding: 50px 0;
 }
 .heading-name{
-    font-size: 64px;
+    font-size: 2rem;
 }
 .heading-name-2{
-    font-size: 55px;
+    font-size: 1.5rem;
 }
 
 .heading-name span{
@@ -29,7 +29,8 @@ ul.work-list li a:hover{
 .menu-item-bg{
     background-color: #C0C0C2;
     border-radius: 50%;
-    padding: 3vh 2vh;
+    height: 17vh;
+    width: 17vh;
     border-top-right-radius: 3%;
     margin-left: 10px;
 }
@@ -93,8 +94,8 @@ a:hover{
     transform-origin: bottom center left;
     padding-top: 200px;
     padding: 7px 2px;
-    width: 38vh;
-    height: 38vh;
+    width: 75%;
+    height: 98%;
     border-top: 1px solid #BDBDBE;
     border-left: 1px solid #BDBDBE;
 }

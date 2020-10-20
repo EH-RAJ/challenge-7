@@ -1,0 +1,15 @@
+@media only screen and (max-width : 600px){
+    .heading-name{
+        font-size: 35px;
+    }
+    .heading-name-2{
+        font-size: 24px;
+    }
+    .skills-div .skill{
+        padding: 8px;
+    }
+    .menu-item-bg{
+        width: 75%;
+        height: 98%;
+    }
+}
